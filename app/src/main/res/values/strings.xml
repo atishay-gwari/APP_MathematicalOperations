@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AG-M1-27</string>
+    <string name="first">Enter the first number</string>
+    <string name="second">Enter the second number</string>
+    <string name="btn">Mathematical Operations</string>
+    <string name="txtr">Result</string>
+    <string name="img">Image</string>
+</resources>
